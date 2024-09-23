@@ -1,5 +1,5 @@
 {
-	"name": "@foxglove/sql.js",
+	"name": "@lichtblick/sql.js",
 	"version": "0.0.4",
 	"description": "SQLite library with support for opening and writing databases, prepared statements, and more. This SQLite library is in pure javascript (compiled with emscripten).",
 	"keywords": [
@@ -49,6 +49,5 @@
 		"jsdoc": "^3.6.7",
 		"puppeteer": "^10.2.0",
 		"test": ">=0.6"
-	},
-	"dependencies": {}
+	}
 }
